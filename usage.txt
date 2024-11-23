@@ -1,0 +1,8 @@
+Testing with Different Inputs
+Here’s how the inputs would affect the house price prediction:
+
+-> IF YOU WANT TO INCREASE THE PRICE
+Increasing RM (more rooms), decreasing LSTAT (lower status population), and increasing ZN (more residential land) will increase the predicted price.
+
+-> IF YOU WANT TO DECREASE THE PRICE
+Increasing CRIM (crime rate), increasing AGE (older houses), and increasing LSTAT (more lower-status population) will decrease the predicted price.
