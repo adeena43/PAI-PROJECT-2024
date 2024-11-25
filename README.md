@@ -2,8 +2,10 @@
 ## Adina Faraz 23k-0008
 ## S.Sara Ali 23k-0070
 ## Syed Muneeb Ur Rehman 23k-0038
+
+
                                                              
-                                                             ##Exploratory Data Analysis
+# Exploratory Data Analysis
 
 ![hist_analysis](https://github.com/user-attachments/assets/5eb96c38-9210-4c8e-ad4e-3e91749cbfbe)
 
